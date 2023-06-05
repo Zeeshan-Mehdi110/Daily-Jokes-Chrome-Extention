@@ -1,0 +1,10 @@
+{
+  "name": "Zeeshan Jokes",
+  "description" : "Generate random jokes at the click of a button!",
+  "version" : "0.0.1",
+  "manifest_version": 3,
+  "action" : {
+    "default_popup":"jokes.html",
+    "default_icon" : "joke.png"
+  }
+}
